@@ -1,3 +1,3 @@
 # Angular-MRR
 
-Siguein en curso de shopping.list de MRR
+Siguiendo el curso de shopping.list de MRR
